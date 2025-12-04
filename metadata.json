@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Multilingual AI Caller Bot",
+  "description": "An AI-powered caller bot that converses in English, Chinese, and Bahasa Malaysia. It uses speech-to-text, Gemini for responses, and text-to-speech to simulate a phone call.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
